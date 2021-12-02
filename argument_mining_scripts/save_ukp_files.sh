@@ -6,8 +6,10 @@
 echo $CUDA_VISIBLE_DEVICES
 declare -a StringArray=("abortion" "cloning" "death_penalty" "gun_control" "marijuana_legalization" "school_uniforms" "minimum_wage" "nuclear_energy")
 indel=0
-for i in ${StringArray[@]}; do
+for i in ${StringArray[@]};
+do
    echo $i
+   echo $indel
    python3 save_data_in_tab_format.py $indel "$i"
    echo "done saving new tsv files"
 done

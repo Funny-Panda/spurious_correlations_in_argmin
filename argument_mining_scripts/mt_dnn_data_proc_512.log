@@ -1,0 +1,166 @@
+12/01/2021 08:40:40 Task UKP
+12/01/2021 08:40:40 File /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/abortion/UKP_train.tsv doesnot exit
+12/01/2021 08:40:49 Task UKP
+12/01/2021 08:40:49 File /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/cloning/UKP_train.tsv doesnot exit
+12/01/2021 08:40:59 Task UKP
+12/01/2021 08:40:59 File /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/death_penalty/UKP_train.tsv doesnot exit
+12/01/2021 08:41:08 Task UKP
+12/01/2021 08:41:08 File /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/gun_control/UKP_train.tsv doesnot exit
+12/01/2021 08:41:18 Task UKP
+12/01/2021 08:41:18 File /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/marijuana_legalization/UKP_train.tsv doesnot exit
+12/01/2021 08:41:27 Task UKP
+12/01/2021 08:41:27 File /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/school_uniforms/UKP_train.tsv doesnot exit
+12/01/2021 08:41:36 Task UKP
+12/01/2021 08:41:36 File /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/minimum_wage/UKP_train.tsv doesnot exit
+12/01/2021 08:41:46 Task UKP
+12/01/2021 08:41:46 File /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/nuclear_energy/UKP_train.tsv doesnot exit
+12/01/2021 08:50:06 Task UKP
+12/01/2021 08:50:07 /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/abortion/bert-base-uncased/UKP_train.json
+12/01/2021 08:50:11 /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/abortion/bert-base-uncased/UKP_test.json
+12/01/2021 08:50:12 /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/abortion/bert-base-uncased/UKP_dev.json
+12/01/2021 08:50:13 /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/abortion/bert-base-uncased/UKP_heldout_test.json
+12/01/2021 08:50:13 File /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/abortion/UKP_heldout_dev.tsv doesnot exit
+12/01/2021 08:50:23 Task UKP
+12/01/2021 08:50:23 /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/cloning/bert-base-uncased/UKP_train.json
+12/01/2021 08:50:27 /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/cloning/bert-base-uncased/UKP_test.json
+12/01/2021 08:50:28 /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/cloning/bert-base-uncased/UKP_dev.json
+12/01/2021 08:50:29 /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/cloning/bert-base-uncased/UKP_heldout_test.json
+12/01/2021 08:50:29 File /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/cloning/UKP_heldout_dev.tsv doesnot exit
+12/01/2021 08:50:40 Task UKP
+12/01/2021 08:50:40 /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/death_penalty/bert-base-uncased/UKP_train.json
+12/01/2021 08:50:44 /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/death_penalty/bert-base-uncased/UKP_test.json
+12/01/2021 08:50:45 /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/death_penalty/bert-base-uncased/UKP_dev.json
+12/01/2021 08:50:46 /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/death_penalty/bert-base-uncased/UKP_heldout_test.json
+12/01/2021 08:50:46 File /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/death_penalty/UKP_heldout_dev.tsv doesnot exit
+12/01/2021 08:50:56 Task UKP
+12/01/2021 08:50:56 /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/gun_control/bert-base-uncased/UKP_train.json
+12/01/2021 08:51:00 /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/gun_control/bert-base-uncased/UKP_test.json
+12/01/2021 08:51:01 /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/gun_control/bert-base-uncased/UKP_dev.json
+12/01/2021 08:51:02 /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/gun_control/bert-base-uncased/UKP_heldout_test.json
+12/01/2021 08:51:02 File /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/gun_control/UKP_heldout_dev.tsv doesnot exit
+12/01/2021 08:51:12 Task UKP
+12/01/2021 08:51:12 /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/marijuana_legalization/bert-base-uncased/UKP_train.json
+12/01/2021 08:51:16 /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/marijuana_legalization/bert-base-uncased/UKP_test.json
+12/01/2021 08:51:17 /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/marijuana_legalization/bert-base-uncased/UKP_dev.json
+12/01/2021 08:51:18 /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/marijuana_legalization/bert-base-uncased/UKP_heldout_test.json
+12/01/2021 08:51:18 File /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/marijuana_legalization/UKP_heldout_dev.tsv doesnot exit
+12/01/2021 08:51:33 Task UKP
+12/01/2021 08:51:33 /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/school_uniforms/bert-base-uncased/UKP_train.json
+12/01/2021 08:51:37 /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/school_uniforms/bert-base-uncased/UKP_test.json
+12/01/2021 08:51:38 /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/school_uniforms/bert-base-uncased/UKP_dev.json
+12/01/2021 08:51:39 /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/school_uniforms/bert-base-uncased/UKP_heldout_test.json
+12/01/2021 08:51:39 File /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/school_uniforms/UKP_heldout_dev.tsv doesnot exit
+12/01/2021 08:51:49 Task UKP
+12/01/2021 08:51:49 /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/minimum_wage/bert-base-uncased/UKP_train.json
+12/01/2021 08:51:53 /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/minimum_wage/bert-base-uncased/UKP_test.json
+12/01/2021 08:51:55 /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/minimum_wage/bert-base-uncased/UKP_dev.json
+12/01/2021 08:51:55 /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/minimum_wage/bert-base-uncased/UKP_heldout_test.json
+12/01/2021 08:51:55 File /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/minimum_wage/UKP_heldout_dev.tsv doesnot exit
+12/01/2021 08:52:06 Task UKP
+12/01/2021 08:52:06 /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/nuclear_energy/bert-base-uncased/UKP_train.json
+12/01/2021 08:52:11 /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/nuclear_energy/bert-base-uncased/UKP_test.json
+12/01/2021 08:52:12 /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/nuclear_energy/bert-base-uncased/UKP_dev.json
+12/01/2021 08:52:13 /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/nuclear_energy/bert-base-uncased/UKP_heldout_test.json
+12/01/2021 08:52:13 File /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/nuclear_energy/UKP_heldout_dev.tsv doesnot exit
+12/01/2021 09:10:12 Task UNKcommonContentWordsUKP
+12/01/2021 09:10:12 File /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/abortion/UNKcommonContentWordsUKP_train.tsv doesnot exit
+12/01/2021 09:10:22 Task UNKcommonContentWordsUKP
+12/01/2021 09:10:22 File /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/cloning/UNKcommonContentWordsUKP_train.tsv doesnot exit
+12/01/2021 09:10:32 Task UNKcommonContentWordsUKP
+12/01/2021 09:10:32 File /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/death_penalty/UNKcommonContentWordsUKP_train.tsv doesnot exit
+12/01/2021 09:10:42 Task UNKcommonContentWordsUKP
+12/01/2021 09:10:42 File /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/gun_control/UNKcommonContentWordsUKP_train.tsv doesnot exit
+12/01/2021 09:10:52 Task UNKcommonContentWordsUKP
+12/01/2021 09:10:52 File /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/marijuana_legalization/UNKcommonContentWordsUKP_train.tsv doesnot exit
+12/01/2021 09:11:02 Task UNKcommonContentWordsUKP
+12/01/2021 09:11:02 File /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/school_uniforms/UNKcommonContentWordsUKP_train.tsv doesnot exit
+12/01/2021 09:11:14 Task UNKcommonContentWordsUKP
+12/01/2021 09:11:14 File /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/minimum_wage/UNKcommonContentWordsUKP_train.tsv doesnot exit
+12/01/2021 09:21:33 Task UNKcommonContentWordsUKP
+12/01/2021 09:21:33 File /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/abortion/UNKcommonContentWordsUKP_train.tsv doesnot exit
+12/01/2021 09:24:08 Task UNKcommonContentWordsUKP
+12/01/2021 09:24:08 File /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/abortion/UNKcommonContentWordsUKP_train.tsv doesnot exit
+12/01/2021 09:24:23 Task UNKcommonContentWordsUKP
+12/01/2021 09:24:23 File /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/cloning/UNKcommonContentWordsUKP_train.tsv doesnot exit
+12/01/2021 09:24:38 Task UNKcommonContentWordsUKP
+12/01/2021 09:24:38 File /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/death_penalty/UNKcommonContentWordsUKP_train.tsv doesnot exit
+12/01/2021 09:24:54 Task UNKcommonContentWordsUKP
+12/01/2021 09:24:54 File /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/gun_control/UNKcommonContentWordsUKP_train.tsv doesnot exit
+12/01/2021 09:29:19 Task UNKcommonContentWordsUKP
+12/01/2021 09:29:19 File /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/abortion/UNKcommonContentWordsUKP_train.tsv doesnot exit
+12/01/2021 09:29:34 Task UNKcommonContentWordsUKP
+12/01/2021 09:29:34 File /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/cloning/UNKcommonContentWordsUKP_train.tsv doesnot exit
+12/01/2021 09:29:49 Task UNKcommonContentWordsUKP
+12/01/2021 09:29:49 File /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/death_penalty/UNKcommonContentWordsUKP_train.tsv doesnot exit
+12/01/2021 09:30:05 Task UNKcommonContentWordsUKP
+12/01/2021 09:30:05 File /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/gun_control/UNKcommonContentWordsUKP_train.tsv doesnot exit
+12/01/2021 09:30:21 Task UNKcommonContentWordsUKP
+12/01/2021 09:30:21 File /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/marijuana_legalization/UNKcommonContentWordsUKP_train.tsv doesnot exit
+12/01/2021 09:30:36 Task UNKcommonContentWordsUKP
+12/01/2021 09:30:36 File /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/school_uniforms/UNKcommonContentWordsUKP_train.tsv doesnot exit
+12/01/2021 09:30:51 Task UNKcommonContentWordsUKP
+12/01/2021 09:30:51 File /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/minimum_wage/UNKcommonContentWordsUKP_train.tsv doesnot exit
+12/01/2021 09:31:21 Task UNKcommonContentWordsUKP
+12/01/2021 09:31:21 File /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/abortion/UNKcommonContentWordsUKP_train.tsv doesnot exit
+12/01/2021 09:31:37 Task UNKcommonContentWordsUKP
+12/01/2021 09:31:37 File /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/cloning/UNKcommonContentWordsUKP_train.tsv doesnot exit
+12/01/2021 09:31:53 Task UNKcommonContentWordsUKP
+12/01/2021 09:31:53 File /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/death_penalty/UNKcommonContentWordsUKP_train.tsv doesnot exit
+12/01/2021 09:32:08 Task UNKcommonContentWordsUKP
+12/01/2021 09:32:08 File /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/gun_control/UNKcommonContentWordsUKP_train.tsv doesnot exit
+12/01/2021 09:32:24 Task UNKcommonContentWordsUKP
+12/01/2021 09:32:24 File /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/marijuana_legalization/UNKcommonContentWordsUKP_train.tsv doesnot exit
+12/01/2021 09:32:45 Task UNKcommonContentWordsUKP
+12/01/2021 09:32:45 File /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/school_uniforms/UNKcommonContentWordsUKP_train.tsv doesnot exit
+12/01/2021 09:33:53 Task UKP
+12/01/2021 09:33:53 /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/abortion/bert-base-uncased/UKP_train.json
+12/01/2021 09:33:57 /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/abortion/bert-base-uncased/UKP_test.json
+12/01/2021 09:33:59 /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/abortion/bert-base-uncased/UKP_dev.json
+12/01/2021 09:33:59 /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/abortion/bert-base-uncased/UKP_heldout_test.json
+12/01/2021 09:33:59 File /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/abortion/UKP_heldout_dev.tsv doesnot exit
+12/01/2021 09:34:09 Task UKP
+12/01/2021 09:34:09 /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/cloning/bert-base-uncased/UKP_train.json
+12/01/2021 09:34:14 /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/cloning/bert-base-uncased/UKP_test.json
+12/01/2021 09:34:15 /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/cloning/bert-base-uncased/UKP_dev.json
+12/01/2021 09:34:15 /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/cloning/bert-base-uncased/UKP_heldout_test.json
+12/01/2021 09:34:16 File /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/cloning/UKP_heldout_dev.tsv doesnot exit
+12/01/2021 09:34:26 Task UKP
+12/01/2021 09:34:26 /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/death_penalty/bert-base-uncased/UKP_train.json
+12/01/2021 09:34:30 /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/death_penalty/bert-base-uncased/UKP_test.json
+12/01/2021 09:34:32 /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/death_penalty/bert-base-uncased/UKP_dev.json
+12/01/2021 09:34:32 /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/death_penalty/bert-base-uncased/UKP_heldout_test.json
+12/01/2021 09:34:32 File /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/death_penalty/UKP_heldout_dev.tsv doesnot exit
+12/01/2021 09:34:42 Task UKP
+12/01/2021 09:34:42 /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/gun_control/bert-base-uncased/UKP_train.json
+12/01/2021 09:34:47 /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/gun_control/bert-base-uncased/UKP_test.json
+12/01/2021 09:34:48 /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/gun_control/bert-base-uncased/UKP_dev.json
+12/01/2021 09:34:48 /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/gun_control/bert-base-uncased/UKP_heldout_test.json
+12/01/2021 09:34:49 File /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/gun_control/UKP_heldout_dev.tsv doesnot exit
+12/01/2021 09:34:59 Task UKP
+12/01/2021 09:34:59 /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/marijuana_legalization/bert-base-uncased/UKP_train.json
+12/01/2021 09:35:03 /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/marijuana_legalization/bert-base-uncased/UKP_test.json
+12/01/2021 09:35:05 /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/marijuana_legalization/bert-base-uncased/UKP_dev.json
+12/01/2021 09:35:05 /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/marijuana_legalization/bert-base-uncased/UKP_heldout_test.json
+12/01/2021 09:35:05 File /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/marijuana_legalization/UKP_heldout_dev.tsv doesnot exit
+12/01/2021 09:35:15 Task UKP
+12/01/2021 09:35:15 /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/school_uniforms/bert-base-uncased/UKP_train.json
+12/01/2021 09:35:20 /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/school_uniforms/bert-base-uncased/UKP_test.json
+12/01/2021 09:35:21 /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/school_uniforms/bert-base-uncased/UKP_dev.json
+12/01/2021 09:35:22 /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/school_uniforms/bert-base-uncased/UKP_heldout_test.json
+12/01/2021 09:35:22 File /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/school_uniforms/UKP_heldout_dev.tsv doesnot exit
+12/01/2021 09:35:32 Task UKP
+12/01/2021 09:35:32 /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/minimum_wage/bert-base-uncased/UKP_train.json
+12/01/2021 09:35:36 /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/minimum_wage/bert-base-uncased/UKP_test.json
+12/01/2021 09:35:37 /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/minimum_wage/bert-base-uncased/UKP_dev.json
+12/01/2021 09:35:38 /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/minimum_wage/bert-base-uncased/UKP_heldout_test.json
+12/01/2021 09:35:38 File /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/minimum_wage/UKP_heldout_dev.tsv doesnot exit
+12/01/2021 09:35:48 Task UKP
+12/01/2021 09:35:48 /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/nuclear_energy/bert-base-uncased/UKP_train.json
+12/01/2021 09:35:52 /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/nuclear_energy/bert-base-uncased/UKP_test.json
+12/01/2021 09:35:54 /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/nuclear_energy/bert-base-uncased/UKP_dev.json
+12/01/2021 09:35:54 /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/nuclear_energy/bert-base-uncased/UKP_heldout_test.json
+12/01/2021 09:35:54 File /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/nuclear_energy/UKP_heldout_dev.tsv doesnot exit
+12/01/2021 09:37:37 Task UNKcommonContentWordsUKP
+12/01/2021 09:37:37 File /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/abortion/UNKcommonContentWordsUKP_train.tsv doesnot exit
+12/01/2021 10:19:41 Task UNKcommonContentWordsUKP
+12/01/2021 10:19:41 File /home/fzuirdata/zpc/spurious_correlations_in_argmin/argument_mining_data/UKPArgMin/abortion/UNKcommonContentWordsUKP_train.tsv doesnot exit

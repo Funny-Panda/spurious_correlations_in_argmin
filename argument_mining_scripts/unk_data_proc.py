@@ -1,7 +1,9 @@
+# import retrieve as retrieve
 import stanza
 import sys
 import codecs
 import pandas as pd
+# import retrieve
 from content_word_utils import retrieve
 stanza.download('en')
 
@@ -10,6 +12,7 @@ path = sys.argv[1]
 file = sys.argv[2]
 
 def process(path, file, keep_top10=False, keep_common=False):
+    print("-----------------------------")
     if ".csv" in file:
         data = pd.read_csv(path+file)
         texts = texts = data.text.values

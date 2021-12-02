@@ -9,7 +9,8 @@
 path="$1"
 
 declare -a StringArray=("abortion" "cloning" "death_penalty" "gun_control" "marijuana_legalization" "school_uniforms" "minimum_wage" "nuclear_energy")
-for i in ${StringArray[@]}; do
+for i in ${StringArray[@]};
+do
    echo $i
    #python3 unk_data_proc.py "../argument_mining_data/UKPArgMin/$i/" "UKP_dev.tsv" False
    #python3 unk_data_proc.py "../prj1/argument_mining_data/UKPArgMin/$i/" "UKP_test.tsv" False
